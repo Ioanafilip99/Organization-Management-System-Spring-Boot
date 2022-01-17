@@ -1,0 +1,2 @@
+# Organization-Management-System-Spring-Boot
+The back end system of an application used for organizations management. The application stores the data in a sql database, uses the Hibernate Framework to map Java classes to database tables and implements a REST API which consists of all kinds of HTTP request. Unit tests and integration tests are also included in this project and were created using Mockito Framework.
